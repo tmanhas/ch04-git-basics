@@ -1,4 +1,9 @@
 # Exercise 3
+The prompt below is different than what the TA showed so here is what I think I am supposed to do. 
+* master
+  remotes/origin/HEAD -> origin/master
+  remotes/origin/complete
+  remotes/origin/master
 
 ## Hello World!
 
