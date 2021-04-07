@@ -1,5 +1,7 @@
 # Exercise 3
 
+## Hello World!
+
 Learn the basics of git workflow:
 
 1. **Fork** the repo onto your own github account  
