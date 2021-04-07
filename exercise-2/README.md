@@ -11,4 +11,6 @@ merge the changes back to the others.
 
 2. Modify this version, by answering the question above ;-)
 
+This photo is the logo for our school and is purple and gold. Proud to be a Husky!
+
 ![uw logo](UW.jpeg)
